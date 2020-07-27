@@ -23,7 +23,7 @@
 
 class TTKApplication : public QWidget
 {
-	Q_OBJECT
+    Q_OBJECT
 public:
     explicit TTKApplication(QWidget *parent = nullptr);
 
